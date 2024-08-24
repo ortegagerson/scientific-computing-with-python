@@ -2,6 +2,9 @@
 ## Overview
 This project contains a Python function, arithmetic_arranger, that arranges and optionally solves a list of arithmetic problems (addition and subtraction). The problems are formatted vertically, and the function handles edge cases such as invalid operators, non-numeric inputs, and operand length limits.
 
+## To Implement
+- Functioning GUI
+
 ## Features
 - Supports Addition and Subtraction: The function accepts problems using the + and - operators.
 - Error Handling: Returns error messages for:
